@@ -1,0 +1,4 @@
+num = int(input('Digite um valor em metros:'))
+cm = num * 10 ** 2
+mm = num * 10 ** 3
+print('{} metros convertido em centímetros é {}, e em milímetros é {}'.format(num, cm, mm))
