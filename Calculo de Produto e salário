@@ -1,0 +1,13 @@
+
+#Calculo 1
+prod = float(input('Digite o valor do produto:'))
+desc = prod * 0.05
+prodAtual = prod - desc
+print('O valor atual desse produto após o 5% de desconto é {:.2f}'.format(prodAtual))
+
+
+#Calculo 2
+sal = float(input('Digite o seu salário:'))
+aum = sal* 0.15
+salAtual = sal + aum
+print('O seu salário agora é {}'.format(salAtual))
