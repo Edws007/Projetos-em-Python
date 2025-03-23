@@ -1,0 +1,22 @@
+num = int(input('Digite um número:'))
+mult1 = num * 1
+mult2 = num * 2
+mult3 = num * 3
+mult4 = num * 4
+mult5 = num * 5
+mult6 = num * 6
+mult7 = num * 7
+mult8 = num * 8
+mult9 = num * 9
+mult10 = num * 10
+print('{} x 1 = {}, {} x 1 = {}'.format(num, mult1, num, mult2))
+print('{} x 1 = {}'.format(num, mult1))
+print('{} x 2 = {}'.format(num, mult2))
+print('{} x 3 = {}'.format(num, mult3))
+print('{} x 4 = {}'.format(num, mult4))
+print('{} x 5 = {}'.format(num, mult5))
+print('{} x 6 = {}'.format(num, mult6))
+print('{} x 7 = {}'.format(num, mult7))
+print('{} x 8 = {}'.format(num, mult8))
+print('{} x 9 = {}'.format(num, mult9))
+print('{} x 10 = {}'.format(num, mult10))
